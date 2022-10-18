@@ -8,3 +8,4 @@
 #### You can download the server.jar from: [here](https://github.com/NebulaBC/bta_example_plugin/raw/master/libs/bta-server.jar)
 
 If something you want to do is not possible, let me know and I can add endpoints!
+For help with setting up the plugin environment or if you run into any issues send me a message: NebulaBC#7706
