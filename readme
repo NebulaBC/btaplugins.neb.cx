@@ -1,5 +1,5 @@
 BTA plugins server.
-````
+----------
 
 The bta plugins server is a small semi-official release of 1.7.6 for serversides only.
 it adds support for plugins (*just like it sounds*), if you are not experienced with server plugins, think Bukkit but for BTA.
