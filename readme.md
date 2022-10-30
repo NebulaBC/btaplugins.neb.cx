@@ -11,5 +11,4 @@ If something you want to do is not yet possible, let me know and I can add endpo
 For help with setting up the plugin environment or if you run into any issues create a help request on the Discord.
 
 Existing plugins:  
-
 [Greeter](https://github.com/NebulaBC/greeter/) - Welcomes new players to your server.
