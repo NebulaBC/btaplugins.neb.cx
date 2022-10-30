@@ -12,4 +12,4 @@ For help with setting up the plugin environment or if you run into any issues cr
 
 Existing plugins:  
 
-(Greeter)[https://github.com/NebulaBC/greeter/] - Welcomes new players to your server.
+[Greeter](https://github.com/NebulaBC/greeter/) - Welcomes new players to your server.
