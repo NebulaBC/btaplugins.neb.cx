@@ -13,4 +13,5 @@ For help with setting up the plugin environment or if you run into any issues cr
 Existing plugins:  
 [Greeter](https://git.neb.cx/nebulabc/greeter/) - Welcomes new players to your server.  
 [Ranks](https://git.neb.cx/nebulabc/ranks) - Create ranks with custom chat prefixes!  
-[WorldEdit](https://github.com/azurelmao/WorldEdit) - WorldEdit for BTA.
+[WorldEdit](https://github.com/azurelmao/WorldEdit) - WorldEdit for BTA.  
+[BTA-SimpleHomes](https://github.com/eteryi/BTA-SimpleHomes) - Plugin for B1.7.3 BTA, adds /home functionality. 
